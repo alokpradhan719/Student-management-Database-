@@ -10,19 +10,19 @@ Input validation for form fields
 
 🎯 Features
 
-✅ User-friendly Swing GUI
-🧍‍♂️ Input fields for student name, age, gender, course, and email
-🔍 Input validation (e.g., email format, required fields, etc.)
-💾 Stores data in a MySQL database
-🗑️ Reset/Clear form functionality
-📋 Displays success or error messages
+✅ User-friendly Swing GUI.
+🧍‍♂️ Input fields for student name, age, gender, course, and email.
+🔍 Input validation (e.g., email format, required fields, etc.).
+💾 Stores data in a MySQL database.
+🗑️ Reset/Clear form functionality.
+📋 Displays success or error messages.
 
 🛠️ Technologies Used
 
-Language: Java (JDK 8 or later)
-GUI Framework: Swing
-Database: MySQL
-IDE: Visual Studio Code / IntelliJ IDEA / Eclipse
+Language: Java (JDK 8 or later).
+GUI Framework: Swing.
+Database: MySQL.
+IDE: Visual Studio Code / IntelliJ IDEA / Eclipse.
 
 🖼️ Example GUI
 
